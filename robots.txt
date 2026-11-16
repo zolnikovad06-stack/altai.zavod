@@ -1,0 +1,6 @@
+# ДЕМО: сайт закрыт от индексации.
+# После продажи заменить строку "Disallow: /" на "Allow: /"
+User-agent: *
+Disallow: /
+
+Sitemap: https://example.ru/sitemap.xml
